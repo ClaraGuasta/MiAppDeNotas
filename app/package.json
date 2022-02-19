@@ -1,0 +1,25 @@
+{
+  "name": "miappdenotas",
+  "version": "1.0.0",
+  "description": " ",
+  "main": "app.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codelando/dh-node-json-app-tareas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codelando/dh-node-json-app-tareas/issues"
+  },
+  "homepage": "https://github.com/codelando/dh-node-json-app-tareas#readme",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
